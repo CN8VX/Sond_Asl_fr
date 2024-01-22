@@ -1,6 +1,7 @@
-# Sond_Asl_fr
-Fichiers pour la synthèse vocale en langue française à installer sur votre répéteur AllStar.
+# Son en langue française pour AllStarLink
+Fichiers pour la synthèse vocale en langue française à installer sur votre répéteur AllStarLink.
 
-Pour avoir la synthèse vocale en langue française sur votre répéteur AllStarLink, suivez le tutoriel qui se trouve dans le document en PDF : https://www.dmr-maroc.com/ouvrages.php#synth%C3%A8se_vocale_fran%C3%A7aise.
+Fichiers propose par : Jacques VE2DPF <sub>Source: ve2cev.qc</sub>
 
-Source : ve2cev.qc, fichiers propose par : Jacques VE2DPF
+Si vous voulez avoir la synthèse vocale en langue française sur votre répéteur AllStarLink, suivez le tutoriel qui se trouve dans le document en PDF: https://www.dmr-maroc.com/ouvrages.php#synth%C3%A8se_vocale_fran%C3%A7aise.
+
